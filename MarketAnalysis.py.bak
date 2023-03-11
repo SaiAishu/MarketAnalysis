@@ -32,7 +32,7 @@ def summary_df(temp):
 # In[3]:
 
 
-input_df = pd.read_csv(r"data.csv", encoding = 'unicode_escape')
+input_df = pd.read_csv(r"C:\Sai_Aishwarya\ML\Market Segmentation\data.csv", encoding = 'unicode_escape')
 input_df
 
 
